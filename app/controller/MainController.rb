@@ -107,6 +107,7 @@ class MainController < UIViewController
   end
 
   def is_mine(x, y)
+    return false unless (x >= 0 && x < @x_count && y >= 0 && y < @y_count)   
     return @mines[y * @y_count + x]; 
   end
 
