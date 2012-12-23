@@ -3,4 +3,4 @@ MotionSweeper
 
 MineSweeper written in RubyMotion
 
-![ScreeenShot](doc/screenshot.png)
+![ScreeenShot](https://raw.github.com/t/MotionSweeper/master/doc/screenshot.png)
